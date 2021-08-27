@@ -1,2 +1,2 @@
 # GSFus
-The code of GSFus will be available soon.
+The code of GSFus will on the acceptance of the manuscript.
